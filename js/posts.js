@@ -1,1 +1,1 @@
-[{"title":"新的旅程","uri":"2014/11/26/新的旅程/"}]
+[{"title":"新的旅程","uri":"2014/11/26/新的旅程/"},{"title":"Codeforces Beta Round#92(Div. 1 Only)","uri":"2014/12/09/CF92/"}]
